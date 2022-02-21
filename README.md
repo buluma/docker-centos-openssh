@@ -2,7 +2,11 @@
 
 A Rocky Linux container that runs openssh server.
 
-[![build-push](https://github.com/buluma/docker-centos-openssh/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/buluma/docker-centos-openssh/actions/workflows/build-push-action.yml)
+![Maintenance](https://img.shields.io/maintenance/yes/2022) 
+[![build-push](https://github.com/buluma/docker-centos-openssh/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/buluma/docker-centos-openssh/actions/workflows/build-push-action.yml) 
+![GitHub commits since tagged version](https://img.shields.io/github/commits-since/buluma/docker-centos-openssh/1.0.0/master) 
+![Docker Pulls](https://img.shields.io/docker/pulls/buluma/docker-centos-openssh) 
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/buluma/docker-centos-openssh)
 
 You can use this container to quickly startup a "machine" and test things, or it can be used as an SSH server, maybe a stepstone.
 
