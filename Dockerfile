@@ -1,4 +1,4 @@
-FROM centos:8
+FROM buluma/docker-rockylinux8-ansible:latest
 
 LABEL Maintainer="Michael Buluma <me@buluma.me.ke>"
 LABEL Description="Base CentOS OpenSSH server image"
