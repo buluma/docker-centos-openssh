@@ -1,4 +1,4 @@
-FROM centos:7
+FROM rockylinux:latest
 
 LABEL Maintainer="Michael Buluma <me@buluma.me.ke>"
 LABEL Description="Base CentOS OpenSSH server image"
