@@ -87,7 +87,7 @@ services:
 
 - [Docker Hub](https://hub.docker.com/r/buluma/docker-centos-openssh/) is used to deploy the image to.
 
-Building on Travis CI and publishing to Docker Hub happens in parallel. On Travis CI, few project are used:
+Building on local and publishing to Docker Hub happens in parallel. On local environment, few project are used:
 
 - [Docker Lint](https://github.com/projectatomic/dockerfile_lint) for finding weird errors.
 
