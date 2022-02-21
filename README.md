@@ -1,8 +1,8 @@
 # docker-centos-openssh
 
-A CentOS container that runs openssh server.
+A Rocky Linux container that runs openssh server.
 
-[![Build Status](https://travis-ci.com/buluma/docker-centos-openssh.svg?branch=master)](https://travis-ci.com/buluma/docker-centos-openssh) [![](https://images.microbadger.com/badges/image/buluma/docker-centos-openssh.svg)](http://microbadger.com/images/buluma/docker-centos-openssh "Get your own image badge on microbadger.com")
+[![build-push](https://github.com/buluma/docker-centos-openssh/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/buluma/docker-centos-openssh/actions/workflows/build-push-action.yml)
 
 You can use this container to quickly startup a "machine" and test things, or it can be used as an SSH server, maybe a stepstone.
 
