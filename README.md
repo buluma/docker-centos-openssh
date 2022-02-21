@@ -1,4 +1,4 @@
-# Docker Rocky Linux Openssh
+# Docker Rocky Linux OpenSSH
 
 A Rocky Linux container that runs openssh server.
 
