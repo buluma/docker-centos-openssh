@@ -1,4 +1,4 @@
-# docker-centos-openssh
+# Docker Rocky Linux Openssh
 
 A Rocky Linux container that runs openssh server.
 
